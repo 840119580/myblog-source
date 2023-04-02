@@ -22,7 +22,7 @@ sidebar:
     post: '[指南](/)'
     wiki: '[导航](/wiki/)'
     edu: '[官网](https://www.bistu.edu.cn/)'
-    group: '[群组](/about/)'
+    group: '[群组](/group/)'
   # Sidebar widgets
   widgets:
     #### 自动生成的页面 ####
@@ -45,7 +45,9 @@ sidebar:
 ######## Index ########
 post-index: # 近期发布 分类 标签 归档 and ...
   # '朋友文章': /friends/rss/
-
+    # 指南: /
+    # 导航: /wiki/
+    # 群组: /group/
 
 ######## Main ########
 # breadcrumb:
@@ -231,6 +233,9 @@ tag_plugins:
       suffix: https://bu.dusays.com/2022/10/24/63567d3e0ab55.png
     hashtag:
       prefix: https://bu.dusays.com/2022/10/24/63567d3e07da3.png
+    qq:
+      prefix: https://s2.loli.net/2023/04/02/hykv6twgA9OiBIs.png
+      lazyload: false
   # {% emoji %}
   emoji:
     default: https://gcore.jsdelivr.net/gh/cdn-x/emoji/qq/${name}.gif

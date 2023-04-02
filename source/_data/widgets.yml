@@ -5,3 +5,8 @@ toc:
   max_depth: 5 # 5 代表最多解析到 H5 标签
   fallback: recent # Use a backup widget when toc does not exist.
 
+menu:
+    post: '[指南](/)'
+    wiki: '[导航](/wiki/)'
+    edu: '[官网](https://www.bistu.edu.cn/)'
+    group: '[群组](/group/)'
