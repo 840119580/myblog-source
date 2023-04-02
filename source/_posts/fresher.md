@@ -1,9 +1,10 @@
 ---
 layout: wiki  # 使用wiki布局模板
 wiki: Stellar # 这是项目名
-title: 学校生活指南
-order: 2
+title: 新生入学指南
+order: 1
 ---
+
 
 
 ## 开学须知

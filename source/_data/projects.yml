@@ -1,20 +1,21 @@
 Stellar:
-  name: 沙信科+++
+  name: 北信科++
   title: 北信科 - 你的大学生活从这里开始
   subtitle: '十年北信科新生指南 | 新生群管理团队倾情奉献'
   avatar: 'https://s2.loli.net/2023/04/01/8OcpHVwkSTEWZaF.jpg'
   # tags: 博客主题
   cover: true
-  breadcrumb: false
   logo:
-    src: /assets/wiki/stellar/icon.svg
+    src: /assets/wiki/fresher/caiselogo.png
     small: 112px
     large: 240px
     language: -zh-CN
   sections:
-    '新生入学指南': [0, 99]
-    '基本使用': [100, 199]
-    '文档系统': [200, 299]
-    '进阶设定': [900, 999]
+    '我他妈来啦': [0, 9]
+    '新生入学指南': [10, 19]
+    '学校生活指南': [20, 29]
+    '京外生源指南': [30, 39]
+    '北京美食地图': [40, 89]
+    '附录': [90, 99]
   description: 23级的新生们，这里有十余年新生管理团队倾情奉献新生指南，还有热心可爱的学长学姐为你解答，欢迎来到北京信息科技大学! 
   # comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/xaoxuu/hexo-theme-stellar/issues) 反馈。'

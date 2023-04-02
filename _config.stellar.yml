@@ -19,10 +19,10 @@ sidebar:
     avatar: '[config.avatar](https://www.bistu.edu.cn/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
     title: '[config.title](/wiki/)' # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
   menu:
-    # post: '[btn.blog](/)'
-    # wiki: '[btn.wiki](/wiki/)'
-    # friends: '[友链](/friends/)'
-    # about: '[关于](/about/)'
+    post: '[指南](/)'
+    wiki: '[导航](/wiki/)'
+    edu: '[官网](https://www.bistu.edu.cn/)'
+    group: '[群组](/about/)'
   # Sidebar widgets
   widgets:
     #### 自动生成的页面 ####
