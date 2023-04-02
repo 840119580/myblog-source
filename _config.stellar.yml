@@ -225,7 +225,7 @@ tag_plugins:
     border: true # true / false
   # {% checkbox %}
   checkbox:
-    interactive: false # enable interactive for user
+    interactive: true # enable interactive for user
   # {% quot %}
   quot:
     default: # 可以自行配置多种图标方案
