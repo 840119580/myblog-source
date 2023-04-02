@@ -29,7 +29,5 @@ lang=EN-US>&nbsp;&nbsp;&nbsp; </span>可以让不熟悉北京的同学们，更�
 style='font-size:11.0pt'>&#8226;</span></b><b><span style='font-size:11.0pt'>附录</span></b><span
 lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; </span>主要是一些学校的文件</p>
 
-## {% quot 北信科++导航 %}
-### 全部项目导航页
-
-{% link https://北信科新生指南.tech/wiki %}
+### {% quot 北信科++全部导航 %}
+{% link https://北信科新生指南.tech/wiki 北信科指南导航页 %}

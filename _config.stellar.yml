@@ -33,7 +33,7 @@ sidebar:
     # 文档索引页
     wiki_index: search_docs, timeline # for wiki
     # 其它（404）
-    others: search, recent, timeline # for 404 and ...
+    others: search # for 404 and ...
     #### 手动创建的页面 ####
     # 文章内页
     post: search_blog, toc # for pages using 'layout:post'
