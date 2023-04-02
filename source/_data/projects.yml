@@ -5,6 +5,12 @@ Stellar:
   avatar: 'https://s2.loli.net/2023/04/01/8OcpHVwkSTEWZaF.jpg'
   # tags: 博客主题
   cover: true
+  sidebar:
+  menu:
+    post: '[btn.blog](/)'
+    wiki: '[btn.wiki](/wiki/)'
+    notes: '[笔记](/notes/)'
+    more: '[更多](/more/)'
   logo:
     src: /assets/wiki/fresher/caiselogo.png
     small: 112px

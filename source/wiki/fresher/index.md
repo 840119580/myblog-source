@@ -30,4 +30,4 @@ style='font-size:11.0pt'>&#8226;</span></b><b><span style='font-size:11.0pt'>附
 lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; </span>主要是一些学校的文件</p>
 
 ### {% quot 北信科++全部导航 %}
-{% link https://北信科新生指南.tech/wiki 北信科指南导航页 %}
+{% link /wiki 北信科指南导航页 %}
