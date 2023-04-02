@@ -1,12 +1,67 @@
 sidebar:
+  logo:
+    avatar: '[config.avatar](https://www.bistu.edu.cn/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
+    title: '[config.title](/)' # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
   menu:
     post: '[指南](/)'
     notes: '[官网](https://www.bistu.edu.cn/)'
     more: '[群聊](/group/)'
+  widgets:
+    #### 自动生成的页面 ####
+    # 主页
+    home: search, timeline # for home
+    # 博客索引页
+    blog_index: search_blog, timeline # for categories/tags/archives
+    # 文档索引页
+    wiki_index: search_docs, timeline # for wiki
+    # 其它（404）
+    others: search, recent, timeline # for 404 and ...
+    #### 手动创建的页面 ####
+    # 文章内页
+    post: search_blog, toc, ghrepo, ghissues # for pages using 'layout:post'
+    # 文档内页
+    wiki: search, ghrepo, toc, ghissues, related # for pages using 'layout:wiki'
+    # 其它 layout:page 的页面
+    page: toc, search # for custom pages using 'layout:page'
 
 style:
   font-family:
     body: ''
+
+
+######## Footer ########
+footer:
+  social:
+    # github:
+    #   icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.4/social/08a41b181ce68.svg"/>'
+    #   url: /
+    # music:
+    #   icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.4/social/3845874.svg"/>'
+    #   url: /
+    # unsplash:
+    #   icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.4/social/3616429.svg"/>'
+    #   url: /
+    # comments:
+    #   icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.4/social/942ebbf1a4b91.svg"/>'
+    #   url: /about/#comments
+  sitemap:
+    # '博客':
+    #   - '[近期](/)'
+    #   - '[分类](/)'
+    #   - '[标签](/)'
+    #   - '[归档](/)'
+    # '项目':
+    #   - '[开源库](/)'
+    # '社交':
+    #   - '[友链](/)'
+    #   - '[留言板](/)'
+    # '更多':
+    #   - '[关于本站](/)'
+    #   - '[GitHub](/)'
+  content: | # 支持 Markdown 格式
+    本站由 [@HanShu](/) 创建。
+    本指南所有文章除特别声明外，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明出处。
+  # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
 
 ######## Tag Plugins ########
 tag_plugins:
