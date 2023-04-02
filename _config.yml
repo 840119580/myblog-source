@@ -3,18 +3,24 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 北信科新生指南
-favicon: 'https://github.com/840119580/-/blob/main/1_BigPic.png'
-subtitle: ''
+title: 沙信科++
+favicon: 'https://s2.loli.net/2023/04/01/8OcpHVwkSTEWZaF.jpg'
+avatar: 'https://s2.loli.net/2023/04/01/8OcpHVwkSTEWZaF.jpg'
+subtitle:  欢迎来到北京信息科技大学 | 学弟学妹快快到碗里来哦~
 description: ''
 keywords:
 author: 新生群管理团队
-language: '- en'
+language: '- zh-cn'
 timezone: ''
+
+inject:
+  head:
+    - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
+  script:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://www.xn--vuq01fsfz80dj9cl05amqh.tech/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -29,6 +35,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
+wiki_dir: wiki
 skip_render:
 
 # Writing
@@ -103,7 +110,4 @@ theme: stellar
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: https://github.com/840119580/bistu-new.github.io.git
-  branch: gh-pages
-  message: "Build at {{ now('YYYY-MM-DD HH:mm:ss Z') }}"
+  type: ''

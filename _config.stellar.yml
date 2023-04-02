@@ -1,0 +1,23 @@
+sidebar:
+  menu:
+    post: '[指南](/wiki/)'
+    notes: '[官网](https://www.bistu.edu.cn/)'
+    more: '[群聊](/group/)'
+
+style:
+  font-family:
+    body: ''
+
+######## Tag Plugins ########
+tag_plugins:
+  # {% image %}
+  image:
+    fancybox: true
+  
+  # {% quot %}
+  quot:
+    default: # 可以自行配置多种图标方案
+      prefix: https://bu.dusays.com/2022/10/24/63567d3e092ff.png
+      suffix: https://bu.dusays.com/2022/10/24/63567d3e0ab55.png
+    hashtag:
+      prefix: https://bu.dusays.com/2022/10/24/63567d3e07da3.png
