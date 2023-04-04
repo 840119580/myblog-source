@@ -212,7 +212,7 @@ footer:
     #   - '[关于本站](/)'
     #   - '[GitHub](/)'
   content: | # 支持 Markdown 格式
-    本站由 [@HanShu](/wiki/) 创建。
+    本站由 [@HanShu](https://me.xn--vuq01fsfz80dj9cl05amqh.tech/) 创建。
     本指南所有文章除特别声明外，均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明出处。
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
 
