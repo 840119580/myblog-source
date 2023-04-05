@@ -6,9 +6,20 @@ permalink: index.html
 order: 0
 ---
 
-## {% quot 前言 %}
+</br>
 <!-- [{% quot 点击此处快速加入新生群 icon:qq %}](https://jq.qq.com/?_wv=1027&k=9lecbmaI) -->
-{% link https://jq.qq.com/?_wv=1027&k=9lecbmaI 点击此处快速加入新生群 icon:https://s2.loli.net/2023/04/02/hykv6twgA9OiBIs.png %}
+
+{% grid bg:card %}
+<!-- cell left -->
+<center>{% image /assets/wiki/fresher/新生群.jpg fancybox:true %}</center>
+<!-- cell right -->
+<left>&emsp;&emsp;23级的新生们，你们是否对即将步入的大学充满期待?</br>&emsp;&emsp;对未来的学习生活有着许许多多的疑问?</br>&emsp;&emsp;这里有卖萌逗比可爱热心的学长学姐。这里更多的是和你一样的初入大学的新生。</br>&emsp;&emsp;这里让你结交更多的友谊。这里是你大学生活的起点。欢迎来到北京信息科技大学23级新生群!!!</br>&emsp;&emsp;本群有{% mark color:warning 16年 %}新生群经验，资料充足，照片丰富，待人友善，希望学弟学妹快快到碗里来哦~{% emoji blobcat ablobcatrainbow %}</br>{% link https://jq.qq.com/?_wv=1027&k=9lecbmaI 点击此处快速加入新生群 icon:https://s2.loli.net/2023/04/02/hykv6twgA9OiBIs.png %}</left>
+{% endgrid %}
+
+
+
+
+## {% quot 前言 %}
 
 <font size=4>**亲爱的2023级新生们：**</font>
 <font >&emsp;&emsp;首先祝贺你们经历了12年的寒窗苦读，终于踏入了大学的校园。 
@@ -31,7 +42,9 @@ lang=EN-US>&nbsp;&nbsp;&nbsp; </span>可以让不熟悉北京的同学们，更�
 style='font-size:11.0pt'>&#8226;</span></b><b><span style='font-size:11.0pt'>附录</span></b><span
 lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; </span>主要是一些学校的文件</p>
 
+</br>
+
 ### {% quot 北信科++全部导航 %}
-{% link /group 北信科群组导航 icon:/assets/wiki/icon/like.png %}
+<!-- {% link /group 北信科群组导航 icon:/assets/wiki/icon/like.png %} -->
 {% link https://www.bistu.edu.cn/ 北京信息科技大学官网 icon:/assets/wiki/fresher/caiselogo.png %}
-{% link https://xaoxuu.com/wiki/stellar/ 本指南使用主题 %}
+<!-- {% link https://xaoxuu.com/wiki/stellar/ 本指南使用主题 %} -->
