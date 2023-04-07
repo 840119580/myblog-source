@@ -86,7 +86,7 @@ search:
 
 ######## Comments ########
 comments:
-  service:  # beaudar, utterances, giscus, twikoo, waline, artalk
+  service: giscus # beaudar, utterances, giscus, twikoo, waline, artalk
   # beaudar
   # https://beaudar.lipk.org/
 #   beaudar:
@@ -112,18 +112,18 @@ comments:
   # https://giscus.app/zh-CN
   giscus:
     data-repo: 840119580/blog-comments
-        data-repo-id: R_kgDOJTv91Q
-        data-category: General
-        data-category-id: DIC_kwDOJTv91c4CVmo0
-        data-mapping: pathname
-        data-strict: 0
-        data-reactions-enabled: 1
-        data-emit-metadata: 0
-        data-input-position: top
-        data-theme: preferred_color_scheme
-        data-lang: zh-CN
-        data-loading: lazy
-        crossorigin: anonymous
+    data-repo-id: R_kgDOJTv91Q
+    data-category: General
+    data-category-id: DIC_kwDOJTv91c4CVmo0
+    data-mapping: pathname
+    data-strict: 0
+    data-reactions-enabled: 1
+    data-emit-metadata: 0
+    data-input-position: top
+    data-theme: preferred_color_scheme
+    data-lang: zh-CN
+    data-loading: lazy
+    crossorigin: anonymous
 
 #   # Twikoo
 #   # https://twikoo.js.org/
