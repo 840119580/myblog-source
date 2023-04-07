@@ -98,7 +98,7 @@ comments:
     input-position: top # top/bottom 评论框位置
     comment-order: desc # desc 排序
     keep-theme: # true/false
-    loading: true
+    loading: false
     branch: main
   # utterances
   # https://utteranc.es/
