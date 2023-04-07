@@ -89,32 +89,32 @@ comments:
   service: giscus # beaudar, utterances, giscus, twikoo, waline, artalk
   # beaudar
   # https://beaudar.lipk.org/
-  beaudar:
-    repo: #
-    issue-term: pathname
-    issue-number:
-    theme: preferred-color-scheme
-    label:
-    input-position: top # top/bottom 评论框位置
-    comment-order: desc # desc 排序
-    keep-theme: # true/false
-    loading: false
-    branch: main
-  # utterances
-  # https://utteranc.es/
-  utterances:
-    repo: xxx/xxx
-    issue-term: pathname
-    issue-number:
-    theme: preferred-color-scheme
-    label:
+#   beaudar:
+#     repo: #
+#     issue-term: pathname
+#     issue-number:
+#     theme: preferred-color-scheme
+#     label:
+#     input-position: top # top/bottom 评论框位置
+#     comment-order: desc # desc 排序
+#     keep-theme: # true/false
+#     loading: false
+#     branch: main
+#   # utterances
+#   # https://utteranc.es/
+#   utterances:
+#     repo: xxx/xxx
+#     issue-term: pathname
+#     issue-number:
+#     theme: preferred-color-scheme
+#     label:
   # giscus
   # https://giscus.app/zh-CN
   giscus:
     data-repo: 840119580/blog-comments
         data-repo-id: R_kgDOJTv91Q
         data-category: General
-        data-category-id: # DIC_kwDOJTv91c4CVmo0
+        data-category-id: DIC_kwDOJTv91c4CVmo0
         data-mapping: pathname
         data-strict: 0
         data-reactions-enabled: 1
@@ -125,11 +125,11 @@ comments:
         data-loading: lazy
         crossorigin: anonymous
 
-  # Twikoo
-  # https://twikoo.js.org/
-  twikoo:
-    js: https://gcore.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.all.min.js # 建议锁定版本
-    envId: https://xxx # vercel函数
+#   # Twikoo
+#   # https://twikoo.js.org/
+#   twikoo:
+#     js: https://gcore.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.all.min.js # 建议锁定版本
+#     envId: https://xxx # vercel函数
 
   # Waline
   # https://waline.js.org/
