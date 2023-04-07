@@ -86,7 +86,7 @@ search:
 
 ######## Comments ########
 comments:
-  service: giscus # beaudar, utterances, giscus, twikoo, waline, artalk
+  service:  # beaudar, utterances, giscus, twikoo, waline, artalk
   # beaudar
   # https://beaudar.lipk.org/
 #   beaudar:
