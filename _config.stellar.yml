@@ -86,11 +86,11 @@ search:
 
 ######## Comments ########
 comments:
-  service: # beaudar, utterances, giscus, twikoo, waline, artalk
+  service: beaudar # beaudar, utterances, giscus, twikoo, waline, artalk
   # beaudar
   # https://beaudar.lipk.org/
   beaudar:
-    repo: xxx/xxx
+    repo: 840119580/blog-comments
     issue-term: pathname
     issue-number:
     theme: preferred-color-scheme
@@ -98,7 +98,7 @@ comments:
     input-position: top # top/bottom 评论框位置
     comment-order: desc # desc 排序
     keep-theme: # true/false
-    loading: false
+    loading: true
     branch: main
   # utterances
   # https://utteranc.es/
