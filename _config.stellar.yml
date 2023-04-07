@@ -114,7 +114,7 @@ comments:
     data-repo: 840119580/blog-comments
         data-repo-id: R_kgDOJTv91Q
         data-category: General
-        data-category-id: DIC_kwDOJTv91c4CVmo0
+        data-category-id: # DIC_kwDOJTv91c4CVmo0
         data-mapping: pathname
         data-strict: 0
         data-reactions-enabled: 1
