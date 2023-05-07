@@ -46,5 +46,10 @@ lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; </span>主要是一些学校的文件</p>
 
 ### {% quot 北信科++全部导航 %}
 <!-- {% link /group 北信科群组导航 icon:/assets/wiki/icon/like.png %} -->
-{% link https://www.bistu.edu.cn/ 北京信息科技大学官网 icon:/assets/wiki/fresher/caiselogo.png %}
+<!-- {% link https://www.bistu.edu.cn/ 北京信息科技大学官网 icon:/assets/wiki/fresher/caiselogo.png %}
+{% link https://zhaosheng.bistu.edu.cn/ 本科生招生网 %} -->
 <!-- {% link https://xaoxuu.com/wiki/stellar/ 本指南使用主题 %} -->
+
+{% sites 首页导航 %}
+{% sites 招生计划 %}
+{% sites 录取查询 %}
