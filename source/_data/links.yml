@@ -18,10 +18,3 @@
     screenshot: '/assets/wiki/fresher/录取查询.jpg'
     avatar: '../assets/wiki/fresher/录取查询logo.jpg'
     description: 可查询录取结果及进度
-
-'学校官网':
-  - title: 学校官网
-    url: https://www.bistu.edu.cn/
-    screenshot: '/assets/wiki/fresher/官网.jpg'
-    avatar: '../assets/wiki/fresher/caiselogo.png'
-    description: 北京信息科技大学的官方网站
