@@ -51,4 +51,3 @@ lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; </span>主要是一些学校的文件</p>
 <!-- {% link https://xaoxuu.com/wiki/stellar/ 本指南使用主题 %} -->
 
 {% sites 导航 %}
-{% sites 招生计划 %}{% sites 录取查询 %}
