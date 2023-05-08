@@ -27,13 +27,13 @@
     description: 北京信息科技大学的官方网站
 
   - title: 本科生招生计划
-    url: https://www.bistu.edu.cn/
+    url: https://zhaoshengcx.bistu.edu.cn/static/front/bistu/basic/html_web/zsjh.html
     screenshot: '/assets/wiki/fresher/招生计划.jpg'
     avatar: '../assets/wiki/fresher/招生计划logo.jpg'
     description: 可查询各省份专业招生计划及分数线
 
   - title: 录取结果查询
-    url: https://www.bistu.edu.cn/
+    url: https://zhaoshengcx.bistu.edu.cn/static/front/bistu/basic/html_web/lqcx.html
     screenshot: '/assets/wiki/fresher/录取查询.jpg'
     avatar: '../assets/wiki/fresher/录取查询logo.jpg'
     description: 可查询录取结果及进度
