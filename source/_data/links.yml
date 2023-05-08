@@ -18,3 +18,22 @@
     screenshot: '/assets/wiki/fresher/录取查询.jpg'
     avatar: '../assets/wiki/fresher/录取查询logo.jpg'
     description: 可查询录取结果及进度
+
+'导航':
+  - title: 学校官网
+    url: https://www.bistu.edu.cn/
+    screenshot: '/assets/wiki/fresher/官网.jpg'
+    avatar: '../assets/wiki/fresher/caiselogo.png'
+    description: 北京信息科技大学的官方网站
+
+  - title: 本科生招生计划
+    url: https://www.bistu.edu.cn/
+    screenshot: '/assets/wiki/fresher/招生计划.jpg'
+    avatar: '../assets/wiki/fresher/招生计划logo.jpg'
+    description: 可查询各省份专业招生计划及分数线
+
+  - title: 录取结果查询
+    url: https://www.bistu.edu.cn/
+    screenshot: '/assets/wiki/fresher/录取查询.jpg'
+    avatar: '../assets/wiki/fresher/录取查询logo.jpg'
+    description: 可查询录取结果及进度
