@@ -50,4 +50,5 @@ lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp; </span>主要是一些学校的文件</p>
 {% link https://zhaosheng.bistu.edu.cn/ 本科生招生网 %} -->
 <!-- {% link https://xaoxuu.com/wiki/stellar/ 本指南使用主题 %} -->
 
-{% sites 学校官网 %}{% sites 招生计划 %}{% sites 录取查询 %}
+{% sites 导航 %}
+{% sites 招生计划 %}{% sites 录取查询 %}
