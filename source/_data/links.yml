@@ -32,6 +32,18 @@
     avatar: '../assets/wiki/fresher/招生计划logo.jpg'
     description: 可查询各省份专业招生计划及分数线
 
+  - title: 往年分数线查询
+    url: https://zhaoshengcx.bistu.edu.cn/static/front/bistu/basic/html_web/lnfs.html
+    screenshot: '/assets/wiki/fresher/历年分数.png'
+    avatar: '../assets/wiki/fresher/caiselogo.png'
+    description: 可查询往年分数线
+
+  - title: 一分一段查询
+    url: https://www.gaokao.cn/colleges/bypart?fromcoop=bdzhc
+    screenshot: '/assets/wiki/fresher/一分一段截图.jpg'
+    avatar: '../assets/wiki/fresher/一分一段.jpg'
+    description: 2023一分一段查询
+
   - title: 录取结果查询
     url: https://zhaoshengcx.bistu.edu.cn/static/front/bistu/basic/html_web/lqcx.html
     screenshot: '/assets/wiki/fresher/录取查询.jpg'
