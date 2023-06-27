@@ -11,7 +11,7 @@ order: 0
 
 {% grid bg:card %}
 <!-- cell left -->
-<center>{% image /assets/wiki/fresher/新生群.jpg fancybox:true %}</center>
+<center>{% image /assets/wiki/fresher/新生群.jpg fancybox:true height:200px %}</center>
 <!-- cell right -->
 <left>&emsp;&emsp;23级的新生们，你们是否对即将步入的大学充满期待?</br>&emsp;&emsp;对未来的学习生活有着许许多多的疑问?</br>&emsp;&emsp;这里有卖萌逗比可爱热心的学长学姐。这里更多的是和你一样的初入大学的新生。</br>&emsp;&emsp;这里让你结交更多的友谊。这里是你大学生活的起点。欢迎来到北京信息科技大学23级新生群!!!</br><font size=5><b>新生群号664606906</b></font></br>&emsp;&emsp;本群有{% mark color:warning 16年 %}新生群经验，资料充足，照片丰富，待人友善，希望学弟学妹快快到碗里来哦~{% emoji blobcat ablobcatrainbow %}</br>{% link https://jq.qq.com/?_wv=1027&k=9lecbmaI 点击此处快速加入新生群 icon:/assets/wiki/fresher/qq.png %}</left>
 {% endgrid %}
