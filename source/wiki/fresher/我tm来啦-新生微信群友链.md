@@ -83,7 +83,7 @@ order: 01
   left:50%;
   transform: translate(-45% , -50%);">
 <center>
-<p style=""><b>人数不多，暂时不会满员，如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</b></p>
+<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</br>可联系编者QQ：{% mark color:orange 840119580 %}</b></p>
 <!-- <p style=""><b>辣度指数：</b>★★☆☆☆（有不辣的</p>
 <p style=""><b>推荐理由：</b>走之前来之后，必吃一次冒酥肉！配菜是豆芽粉条土豆海带丝哦</p> -->
 <!-- {% image /assets/wiki/fresher/food/冒酥肉3.jpg width:80% fancybox:true %} -->
@@ -172,7 +172,7 @@ order: 01
   left:50%;
   transform: translate(-45% , -50%);">
 <center>
-<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</b></p>
+<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</br>可联系编者QQ：{% mark color:orange 840119580 %}</b></p>
 <!-- <p style=""><b>辣度指数：</b>★★☆☆☆（有不辣的</p>
 <p style=""><b>推荐理由：</b>走之前来之后，必吃一次冒酥肉！配菜是豆芽粉条土豆海带丝哦</p> -->
 <!-- {% image /assets/wiki/fresher/food/冒酥肉3.jpg width:80% fancybox:true %} -->
@@ -193,7 +193,7 @@ order: 01
   left:50%;
   transform: translate(-45% , -50%);">
 <center>
-<p style=""><b>人数不多，暂时不会满员，如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</b></p>
+<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</br>可联系编者QQ：{% mark color:orange 840119580 %}</b></p>
 <!-- <p style=""><b>辣度指数：</b>★★☆☆☆（有不辣的</p>
 <p style=""><b>推荐理由：</b>走之前来之后，必吃一次冒酥肉！配菜是豆芽粉条土豆海带丝哦</p> -->
 <!-- {% image /assets/wiki/fresher/food/冒酥肉3.jpg width:80% fancybox:true %} -->
@@ -214,7 +214,7 @@ order: 01
   left:50%;
   transform: translate(-45% , -50%);">
 <center>
-<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</b></p>
+<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</br>可联系编者QQ：{% mark color:orange 840119580 %}</b></p>
 <!-- <p style=""><b>辣度指数：</b>★★☆☆☆（有不辣的</p>
 <p style=""><b>推荐理由：</b>走之前来之后，必吃一次冒酥肉！配菜是豆芽粉条土豆海带丝哦</p> -->
 <!-- {% image /assets/wiki/fresher/food/冒酥肉3.jpg width:80% fancybox:true %} -->
@@ -235,7 +235,7 @@ order: 01
   left:50%;
   transform: translate(-45% , -50%);">
 <center>
-<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</b></p>
+<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</br>可联系编者QQ：{% mark color:orange 840119580 %}</b></p>
 <!-- <p style=""><b>辣度指数：</b>★★☆☆☆（有不辣的</p>
 <p style=""><b>推荐理由：</b>走之前来之后，必吃一次冒酥肉！配菜是豆芽粉条土豆海带丝哦</p> -->
 <!-- {% image /assets/wiki/fresher/food/冒酥肉3.jpg width:80% fancybox:true %} -->
@@ -257,7 +257,7 @@ order: 01
   left:50%;
   transform: translate(-45% , -50%);">
 <center>
-<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</b></p>
+<p style=""><b>如果二维码过期</br>可联系编者WX：{% mark color:orange GH13717873287 %}</br>可联系编者QQ：{% mark color:orange 840119580 %}</b></p>
 <!-- <p style=""><b>辣度指数：</b>★★☆☆☆（有不辣的</p>
 <p style=""><b>推荐理由：</b>走之前来之后，必吃一次冒酥肉！配菜是豆芽粉条土豆海带丝哦</p> -->
 <!-- {% image /assets/wiki/fresher/food/冒酥肉3.jpg width:80% fancybox:true %} -->
