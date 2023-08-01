@@ -55,3 +55,9 @@
     screenshot: '/assets/wiki/fresher/问图.png'
     avatar: '../assets/wiki/fresher/问.png'
     description: 快速
+
+  - title: VR全景校园
+    url: https://www.720yun.com/t/acvkbyf7drl?scene_id=110560182
+    screenshot: '/assets/wiki/fresher/VR.png'
+    avatar: '../assets/wiki/fresher/caiselogo.png'
+    description: VR全景校园，可VR查看学校情况
