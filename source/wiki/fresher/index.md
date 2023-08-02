@@ -9,7 +9,11 @@ order: 0
 
 
 
-## 
+## 让我们从这里开始吧
+
+## {% quot 公告 %}
+<div class="tag-plugin grid" bg="card" style="grid-template-columns:"><div class="cell" index="0"><p><left>  23级的新生们，你们是否对即将步入的大学充满期待?<br>  对未来的学习生活有着许许多多的疑问?<br>  这里有卖萌逗比可爱热心的学长学姐。这里更多的是和你一样的初入大学的新生。<br>  这里让你结交更多的友谊。这里是你大学生活的起点。欢迎来到北京信息科技大学23级新生群!!!<br><font size="5"><b>新生群号664606906</b></font><br>  本群有<mark class="tag-plugin mark" color="warning">16年</mark>新生群经验，资料充足，照片丰富，待人友善，希望学弟学妹快快到碗里来哦~<span class="tag-plugin emoji"><img no-lazy="" class="inline lazy entered loaded" src="https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatrainbow.png" data-src="https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatrainbow.png" data-ll-status="loaded"></span><br></left></p><div class="tag-plugin link dis-select"><a class="link-card plain" title="点击此处快速加入新生群" href="https://jq.qq.com/?_wv=1027&amp;k=9lecbmaI" target="_blank" rel="external nofollow noopener noreferrer" autofill=""><div class="left"><span class="title">点击此处快速加入新生群</span><span class="cap link fs12">https://jq.qq.com/?_wv=1027&amp;k=9lecbmaI</span></div><div class="right"><div class="lazy img entered loaded" data-bg="/assets/wiki/fresher/qq.png" data-ll-status="loaded" style="background-image: url(&quot;/assets/wiki/fresher/qq.png&quot;);"></div></div></a></div><p></p></div></div>
+
 ## {% quot 前言 %}
 
 <font size=4>**亲爱的2023级新生们：**</font>
