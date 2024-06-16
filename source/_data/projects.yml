@@ -26,5 +26,5 @@ Stellar:
     '北京美食地图': [40, 89]
     '附录': [90, 99]
     '关于指南': [990, 1000]
-  description: 23级的新生们，这里有十余年新生管理团队倾情奉献新生指南，还有热心可爱的学长学姐为你解答，欢迎来到北京信息科技大学! 
-  # comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/xaoxuu/hexo-theme-stellar/issues) 反馈。'
+  description: 24级的新生们，这里有十余年新生管理团队倾情奉献新生指南，还有热心可爱的学长学姐为你解答，欢迎来到北京信息科技大学! 
+  comment_title: '评论区积极交流，源码已公开，可自行fork更新 [GitHub](https://github.com/840119580/myblog-source) 。'
