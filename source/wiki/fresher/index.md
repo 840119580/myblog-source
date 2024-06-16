@@ -85,8 +85,8 @@ order: 0
 
 
 
-
-
+### {% quot GitHub链接 %}
+{% link https://github.com/840119580/myblog-source 欢迎大家自由fork源码，提交更新和md文档 %}
 ### {% quot 北信科++其他友链导航 %}
 <!-- {% link /group 北信科群组导航 icon:/assets/wiki/icon/like.png %} -->
 <!-- {% link https://www.bistu.edu.cn/ 北京信息科技大学官网 icon:/assets/wiki/fresher/caiselogo.png %}
