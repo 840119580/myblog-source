@@ -64,6 +64,6 @@
 
   - title: 大学生活质量指北-北信科
     url: https://colleges.chat/universities/bei-jing-xin-xi-ke-ji-da-xue/
-    # screenshot: '/assets/wiki/fresher/VR.png'
+    screenshot: '/assets/wiki/生活质量指北.jpg'
     avatar: '../assets/wiki/fresher/caiselogo.png'
     description: 根据问卷自动生成回答的开源项目，同学们也可贡献答案
