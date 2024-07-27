@@ -32,7 +32,7 @@ order: 01
 {% grid bg:card %}
 <!-- cell left -->
 <center>
-{% image /assets/wiki/fresher/新生群.jpg width:100% fancybox:true %}
+{% image /assets/wiki/新生群.jpg width:100% fancybox:true %}
 </center>
 <!-- cell right -->
 <div style="position: relative;
