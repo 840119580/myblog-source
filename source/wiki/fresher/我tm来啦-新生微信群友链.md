@@ -28,11 +28,11 @@ order: 01
 
 
 
-## {% quot 计算机学院 icon:hashtag %}
+## {% quot 各学院新生群 icon:hashtag %}
 {% grid bg:card %}
 <!-- cell left -->
 <center>
-{% image /assets/wiki/fresher/chatroom/计算机学院.png width:100% fancybox:true %}
+{% image /assets/wiki/fresher/新生群.jpg width:100% fancybox:true %}
 </center>
 <!-- cell right -->
 <div style="position: relative;
@@ -40,15 +40,12 @@ order: 01
   left:50%;
   transform: translate(-45% , -50%);">
 <center>
-<p style=""><b>计算机人满了 进不去的</br>➕群主wx：{% mark color:orange 13370121768 %} 给你们拉进去~</b></p>
-<!-- <p style=""><b>辣度指数：</b>★★☆☆☆（有不辣的</p>
-<p style=""><b>推荐理由：</b>走之前来之后，必吃一次冒酥肉！配菜是豆芽粉条土豆海带丝哦</p> -->
-<!-- {% image /assets/wiki/fresher/food/冒酥肉3.jpg width:80% fancybox:true %} -->
-<!-- <p style="">一般剪发服务价格：</p> -->
+<p style=""><b>请扫码加入 ：此为腾讯共享文档，实时更新</b></p>
+
 </center>
 </div>
 {% endgrid %}
-
+<!-- 
 
 ## {% quot 机电学院 icon:hashtag %}
 {% grid bg:card %}
@@ -287,4 +284,4 @@ order: 01
 <!-- <p style="">一般剪发服务价格：</p> -->
 </center>
 </div>
-{% endgrid %}
+{% endgrid %} -->
