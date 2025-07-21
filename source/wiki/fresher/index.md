@@ -87,7 +87,7 @@ order: 0
 
 ### {% quot GitHub链接 %}
 {% link https://github.com/840119580/myblog-source 欢迎大家自由fork源码，提交更新和md文档 %}
-{% button 语法官方文档 https://xaoxuu.com/wiki/stellar/#start icon:solar:planet-bold-duotone %}
+{% link https://xaoxuu.com/wiki/stellar/#start 语法官方文档 %}
 
 ### {% quot 北信科++其他友链导航 %}
 <!-- {% link /group 北信科群组导航 icon:/assets/wiki/icon/like.png %} -->
