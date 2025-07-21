@@ -34,16 +34,16 @@ order: 0
 
 ### {% quot 北信科QQ新生群导航 %}
 </br>
-<!-- [{% quot 点击此处快速加入新生群 icon:qq %}](https://jq.qq.com/?_wv=1027&k=9lecbmaI) -->
+<!-- [{% quot 点击此处快速加入新生群 icon:qq %}](https://qm.qq.com/q/by7toWH4RO) -->
 
 {% grid bg:card %}
 <!-- cell left -->
 <center>{% image /assets/wiki/fresher/新生群.jpg fancybox:true height:350px %}</center>
 <!-- cell right -->
 <left>
-    &emsp;&emsp;24级的新生们，你们是否对即将步入的大学充满期待?</br>&emsp;&emsp;对未来的学习生活有着许许多多的疑问?</br>&emsp;&emsp;这里有卖萌逗比可爱热心的学长学姐。这里更多的是和你一样的初入大学的新生。</br>&emsp;&emsp;这里让你结交更多的友谊。这里是你大学生活的起点。欢迎来到北京信息科技大学24级新生群!!!</br>
-    <font size=5><b>新生群号 758831636</b></font>
-    </br>&emsp;&emsp;本群有{% mark color:warning 17年 %}新生群经验，资料充足，照片丰富，待人友善，希望学弟学妹快快到碗里来哦~{% emoji blobcat ablobcatrainbow %}</br>{% link http://mtw.so/6alhoP 点击此处快速加入新生群 icon:/assets/wiki/fresher/qq.png %}
+    &emsp;&emsp;25级的新生们，你们是否对即将步入的大学充满期待?</br>&emsp;&emsp;对未来的学习生活有着许许多多的疑问?</br>&emsp;&emsp;这里有卖萌逗比可爱热心的学长学姐。这里更多的是和你一样的初入大学的新生。</br>&emsp;&emsp;这里让你结交更多的友谊。这里是你大学生活的起点。欢迎来到北京信息科技大学25级新生群!!!</br>
+    <font size=5><b>新生群号 1018748442</b></font>
+    </br>&emsp;&emsp;本群有{% mark color:warning 18年 %}新生群经验，资料充足，照片丰富，待人友善，希望学弟学妹快快到碗里来哦~{% emoji blobcat ablobcatrainbow %}</br>{% link https://qm.qq.com/q/by7toWH4RO 点击此处快速加入新生群 icon:/assets/wiki/fresher/qq.png %}
 </left>
 {% endgrid %}
 
